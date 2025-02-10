@@ -1,7 +1,10 @@
 # Afterlife-GameJam
 Visual Novel created for Ukrainian Micro Visual Novel Jam 2024.
+
 Game Engine: Ren'Py
+
 Game Language: Ukrainian
+
 Words: <10000
 
 ItchIO link: https://m1rax.itch.io/afterlife-m1rax
