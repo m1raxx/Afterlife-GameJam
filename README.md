@@ -7,7 +7,7 @@ Game Language: Ukrainian
 
 Words: <10000
 
-ItchIO link: https://m1rax.itch.io/afterlife-m1rax
+Itch.io link: https://m1rax.itch.io/afterlife-m1rax
 
 ![image](https://github.com/user-attachments/assets/65974cbb-b6f5-4efb-9744-d64656d3e3ed)
 
